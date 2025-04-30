@@ -57,5 +57,5 @@ Execute the following commands in a terminal:
 - **Stars**: 17
 - **Watchers**: 2
 - **Forks**: 7
-- **Contributors**: Aishika Rathnala, Teja Naidu Koppineni, Omkar Thipparthi, Anshul Mallick, Jimeet Shah
+- **Contributors**: Teja Naidu Koppineni, Aishika Rathnala, Omkar Thipparthi, Anshul Mallick, Jimeet Shah
 
